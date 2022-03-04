@@ -1,0 +1,22 @@
+{
+  "name": "cool-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psingh-io/cool-nft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psingh-io/cool-nft/issues"
+  },
+  "homepage": "https://github.com/psingh-io/cool-nft#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.0"
+  }
+}
